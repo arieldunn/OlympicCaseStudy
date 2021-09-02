@@ -21,7 +21,8 @@ var complaint = "&complaint_type=Rodent";
 var limit = "&$limit=10000";
 
 // Assemble API query URL
-var url = baseURL + date + complaint + limit;
+//var url = baseURL + date + complaint + limit;
+var url = 127.0.0.1:5000/api/v1.0/Irina;
 
 // Grab the data with d3
 d3.json(url).then(function(response) {
