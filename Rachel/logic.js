@@ -116,54 +116,54 @@ var cities = [{
   population: "N/A"
 },
 {
-  location: [0, 0],
-  name: "City",
-  population: "???"
+  location: [40.7608, -111.8910],
+  name: "Salt Lake City",
+  population: "2.52"
 },
 {
-  location: [0, 0],
-  name: "City",
-  population: "???"
+  location: [43.0618, 141.3545],
+  name: "Sapporo",
+  population: "0.117"
 },
 {
-  location: [0, 0],
-  name: "City",
-  population: "???"
+  location: [43.8563, 18.4131],
+  name: "Sarajevo",
+  population: "N/A"
 },
 {
-  location: [0, 0],
-  name: "City",
-  population: "???"
+  location: [37.5665, 126.9780],
+  name: "Seoul",
+  population: "N/A"
 },
 {
-  location: [0, 0],
-  name: "City",
-  population: "???"
+  location: [43.6028, 39.7342],
+  name: "Sochi",
+  population: "21.89"
 },
 {
-  location: [0, 0],
-  name: "City",
-  population: "???"
+  location: [39.1976, -120.2354],
+  name: "Squaw Valley",
+  population: "N/A"
 },
 {
-  location: [0, 0],
-  name: "City",
-  population: "???"
+  location: [-33.8688, 151.2093],
+  name: "Sydney",
+  population: "5.026"
 },
 {
-  location: [0, 0],
-  name: "City",
-  population: "???"
+  location: [35.6762, 139.6503],
+  name: "Tokyo",
+  population: "0.282"
 },
 {
-  location: [0, 0],
-  name: "City",
-  population: "???"
+  location: [45.0703, 7.6869],
+  name: "Torino",
+  population: "4.366"
 },
 {
-  location: [0, 0],
-  name: "City",
-  population: "???"
+  location: [49.2827, -123.1207],
+  name: "Vancouver",
+  population: "2.54"
 }
 ];
 
