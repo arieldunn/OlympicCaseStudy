@@ -1,3 +1,4 @@
+https://arieldunn.github.io/OlympicLocationProject/
 # Guidelines for Project 3 "Tell a Story"
 
 This document contains guidelines, requirements, and suggestions for Project 3.
