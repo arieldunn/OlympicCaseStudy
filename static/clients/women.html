@@ -35,9 +35,9 @@
                     Client Portal
                     </a>
                     <div class="dropdown-menu navbar-li-a" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="cruella.html">Cost</a>
-                         <a class="dropdown-item" href="dorothy.html">Locations</a>
-                         <a class="dropdown-item" href="sofia.html">About Olympic Case Study</a>
+                        <a class="dropdown-item" href="medals.html">Medal Count & Participation over time</a>
+                         <a class="dropdown-item" href="women.html">Female Presence Over Time</a>
+                         <a class="dropdown-item" href="casestudy.html">About Olympic Case Study</a>
                     </div>
                 </li>
                 <!-- <li class="nav-item">
@@ -54,40 +54,44 @@
     </nav>
     <!-- -------------END NAV BAR --------------------- -->
 
-    <section id="banner-cruella">
+    <section id="banner-dorothy">
 
         <h1 style="background-color: rgb(255, 255, 255, .75)">Welcome, Potential Client!</h1>
         <p style="background-color: rgb(255, 255, 255, .75)">Your requested dashboard is in progress. Please contact your Account Manager with any additional requests.
     </p></section>
     <!-- -------------BEGIN LANDING CONTAINER --------------------- -->
     <div class="container main-container">
-        <section class="row">
-            <!-- -------------BEGIN LANDING-FEATURED CONTAINER --------------------- -->
+        <div class="row">
+            <div>
+                <!-- Plots -->
+                <div class="box">
+                    <h3 id="bigtitle" class="title">Female Participation in the Olympics over 120 years</h3>
+                    <hr>In this analysis we use a bar plot in order to visualize the growth of female participants, which has increased tremendously in the last 100 years. The number of female participants has tripled in the last 40 years. Based on the analysis we would recommend a country that is inclusive towards women and supports women’s rights. </p>
+                    <div class="container" style="padding-bottom: 40px;">
+                        <div class="row">
+                            <div class="col-lg-10" style="padding: 30px; margin-bottom:100px;">
+                                <div class="title">Female Athletes Bar Chart</div>
+                                        <img class="panel" src="../img/WomenParticipationBar.png" alt="Plot of Female Athletes Participation over time">
+                                    </a>
+                            </div>
+                        </div>
 
-            <div class="col-md-12 main-content" id="main-column">
-                <article>
-                    <article>
-                        <h1 class="display-4 main-header">Olympic Case Study</h1>
-                        <h2 class="display-4 main-header">Background: As soon as the 2021 Olympics ended in Tokyo, The International Olympic Committee begin searching for the location of the next Olympic Games. It is the members of the IOC, meeting at their Session, who choose the host. Electing the host for the Olympic Games is one of the powers of the Session. The host city is elected by a majority of the votes cast by secret ballot. We are honored that the IOC has decided to work with our consulting company IRA Story Tellers, Inc. in order to create visualizations based on previous Olympic Games, that will be used in the decision making process.</h2>
-                    <hr class="my-4">
-                    <div class="box">
-                        <p class="lead main-p text-left">The Olympic committee has requested that we include <br><br>
-                            <dl class="lead dl-p text-left">
-                                <li> Data visualizations analyzing past Olympic events. </li><br>
-                            </dl>
-                        </p>
-                        <br><br>
-                        <p class="lead main-p text-center">
-                            IRA Story Tellers client, The International Olympic Committee, has requested our services to complete a filtered map showing all locations of past olympics
-                            <br> <br>
-                        </p>
                     </div>
-                    
-                </article>
-            </div>
-        </section>
+                    <div class="container" style="padding-bottom: 40px;">
+                        <div class="row">
+                            <div class="col-lg-10" style="padding: 30px; margin-bottom:100px;">
+                                <div class="title">Male & Female participation comparison over time.</div>
+                                        <img class="panel" src="../img/MaleFemaleAthletes.png" alt="Plot of Female Athletes Participation over time">
+                                    </a>
+                            </div>
+                        </div>
 
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
+  
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
