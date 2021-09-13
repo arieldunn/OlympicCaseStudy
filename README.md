@@ -1,3 +1,5 @@
+https://arieldunn.github.io/Project3/templates/index.html
+
 # Guidelines for Project 3
 
 This document contains guidelines, requirements, and suggestions for Project 3.
