@@ -1,4 +1,4 @@
-https://arieldunn.github.io/Project3/templates/index.html
+https://arieldunn.github.io/OlympicCaseStudy/templates/index.html
 
 # Guidelines for Project 3
 
