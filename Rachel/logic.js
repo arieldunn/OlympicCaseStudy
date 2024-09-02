@@ -174,3 +174,4 @@ for (var i = 0; i < cities.length; i++) {
     .bindPopup("<h1>" + city.name + "</h1> <hr> <h3>Cost per Billion " + city.population + "</h3>")
     .addTo(myMap);
 }
+
