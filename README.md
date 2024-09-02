@@ -1,6 +1,6 @@
 https://arieldunn.github.io/OlympicCaseStudy/templates/index.html
 
-# Guidelines for Project 3
+# Guidelines for Project 3 
 
 This document contains guidelines, requirements, and suggestions for Project 3.
 
