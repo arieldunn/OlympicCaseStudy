@@ -29,3 +29,4 @@ on OG.city_olympics = A.city_olympics
 AND OG.year_olympics = A.year_olympics
 where A.country_team = 'USA' and OG.country = 'United States'
 group by OG.year_olympics, OG.city_olympics, A.country_team, season, event_cost_b_usd, tot_gold, tot_silver, tot_bronze;
+
